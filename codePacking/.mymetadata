@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="codePacking"
+  id="myeclipse.1443404718544"
+  context-root="/codePacking"
+  j2ee-spec="5.0"
+  archive="codePacking.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
